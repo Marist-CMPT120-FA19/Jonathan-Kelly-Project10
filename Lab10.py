@@ -1,4 +1,6 @@
-
+#Jonathan Kelly, Jonathan.kelly2@marist.edu
+# takes 2 files, one with a sentence and one with words that need to be censored
+#reprints sentence into a new file with censored words
 
 def main():
     fileName = input("Enter the name of the file: ")
